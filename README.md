@@ -1,10 +1,10 @@
-# Rename
+# Invert & Convert
 
-Rename is a portable Windows utility for batch file renaming and image conversion. It processes files locally and uses a Russian-language interface.
+Invert & Convert is a portable Windows utility for batch file renaming and image conversion. It processes files locally and uses a Russian-language interface.
 
 ## Download
 
-Get **Rename.exe** from the [latest release](https://github.com/KirWitcher/rename-windows/releases/latest), then run it on 64-bit Windows with .NET Framework 4.8.
+Get **Rename.exe** from the [latest release](https://github.com/KirWitcher/invert-and-convert/releases/latest), then run it on 64-bit Windows with .NET Framework 4.8.
 
 ## Batch renaming
 
